@@ -1,4 +1,16 @@
-/venv/
-/.idea/
-*.png
+# Dirs
+.idea/
+build/
+dist/
+
+
+# Files
 *.pyc
+*.zip
+*.tar
+*.gz
+*.db
+*.log
+*.log.*
+*.sql
+*.gif
